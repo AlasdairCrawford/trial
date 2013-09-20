@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
 	int x;
-	cout << "Hello World";
+	cout << "Hello World and Universe"; //let us be inclusive of all galaxies
 	cin >> x;
 }
