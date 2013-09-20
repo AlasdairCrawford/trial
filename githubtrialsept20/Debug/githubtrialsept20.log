@@ -1,4 +1,4 @@
-﻿Build started 9/20/2013 11:45:25 AM.
+﻿Build started 9/20/2013 11:56:38 AM.
      1>Project "C:\Users\d3j835\Documents\GitHub\trial\githubtrialsept20\githubtrialsept20.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\githubtrialsept20.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -23,4 +23,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.60
+Time Elapsed 00:00:01.54
